@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "swup": "^2.0.19",
+    "wow.js": "^1.2.2"
+  }
+}
