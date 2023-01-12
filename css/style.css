@@ -280,8 +280,8 @@ nav.navbar {
 
 nav.navbar a, nav.navbar ul li a {
     color: rgb(19, 0, 128) !important;
-    font-weight: 400;
-    font-size: large;
+    font-weight: 800;
+    font-size: 20px;
 }
 
 nav.navbar ul li {
@@ -329,7 +329,7 @@ nav.navbar form input {
 }
 
 .about_section h4 {
-    color: #4fcaff;
+    color: #323392;
     font-size: 18px;
     margin: 0;
 }
@@ -350,7 +350,13 @@ p {
 }
 
 .img-responsive {
-    max-width: 100%;
+    max-width: 120%;
+    max-height: 120%;
+}
+
+.vid-book{
+    max-width: 180%;
+    max-height: 50%;
 }
 
 .white_font {
@@ -634,19 +640,19 @@ h3.blog_head {
 .services .carousel-control-next, .services .carousel-control-prev {
     width: 60px;
     height: 60px;
-    background: #bd8cbf;
+ 
     border-radius: 50%;
 }
 
 .services .carousel-control-next i, .services .carousel-control-prev i {
-    color: #000
+    color: #323392
 }
 
 .services .carousel-control-next {
     right: 0;
     top: 80%;
     right: 40%;
-    background-color: #FFF;
+   
 }
 
 .services .carousel-control-prev {
